@@ -241,7 +241,7 @@
     'width: 1 px',
   ]
 
-  const formLink = 'https://link.stanfordmathtournament.com/apply'
+  const formLink = 'https://link.StanfordMathTournament.org/apply'
 </script>
 
 <svelte:head>
@@ -266,7 +266,7 @@
         <strong>WHO:</strong> High School students residing within the United
         States <br />
         <strong>TEAM SIZE:</strong> 5-6 <br />
-        <strong>COST:</strong> $20 per student* (Financial aid available upon
+        <strong>COST:</strong> $30 per student* (Includes a t-shirt, dinner on Friday, and lunch on Saturday. Financial aid available upon
         request!) <br />
 
         <br />
@@ -373,7 +373,7 @@
             data={registrationData}
             colStyles={registrationStyles}
         />
-        <p style="text-align: center">Questions or issues? Reach out to <a href='mailto:info@stanfordmathtournament.com'>info@stanfordmathtournament.com</a></p>
+        <p style="text-align: center">Questions or issues? Reach out to <a href='mailto:info@StanfordMathTournament.org'>info@StanfordMathTournament.org</a></p>
     </PanelBox>
 </div>
 <br />
